@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { BookOpen, PenTool, MessageSquare, Heart, User, ChevronLeft, Send } from 'lucide-react';
 
 export default function App() {
